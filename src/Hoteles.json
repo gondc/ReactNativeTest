@@ -1,0 +1,113 @@
+[
+  {
+    "id": 0,
+    "nombre": "Sawan Resort",
+    "imagen": "http://www.sawanresortkohlipe.com/assets/photo/sawan-resort-photos/sawan-resort-koh-lipe-02.jpg",
+    "precios": [
+      {
+        "icon": "coffee",
+        "label": "Desayuno",
+        "monto": 1000
+      },
+      {
+        "icon": "bed",
+        "label": "Solo la habitacion",
+        "monto": 987
+      }
+    ],
+    "estrellas": 5,
+    "coordenadas": {
+      "latitud": 6.490916,
+      "longitud": 99.298803
+    },
+    "direccion" : "1633 N Bayshore Dr, Miami, FL 33132, EE. UU"
+  },
+  {
+    "id": 1,
+    "nombre": "Mali Resort",
+    "imagen": "https://t-ec.bstatic.com/images/hotel/max500/296/29690117.jpg",
+    "precios": [
+      {
+        "icon": "bed",
+        "label": "Solo la habitacion",
+        "monto": 1230
+      },
+      {
+        "icon": "coffee",
+        "label": "Desayuno",
+        "monto": 1300
+      }
+    ],
+    "estrellas": 3,
+    "coordenadas": {
+      "latitud": 6.490916,
+      "longitud": 99.298803
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Lipe Beach Resort",
+    "imagen": "https://exp.cdn-hotels.com/hotels/11000000/10660000/10652800/10652736/5e3fab00_z.jpg",
+    "precios": [
+      {
+        "icon": "coffee",
+        "label": "Desayuno",
+        "monto": 837
+      },
+      {
+        "icon": "bed",
+        "label": "Solo la habitacion",
+        "monto": 800
+      }
+    ],
+    "estrellas": 4,
+    "coordenadas": {
+      "latitud": 6.490916,
+      "longitud": 99.298803
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Mountain Resort Koh Lipe",
+    "imagen": "http://www.hotelthailand.com/hotel-photos/koh-lipe/mountain-resort-koh-lipe/pic1-mountain-resort-koh-lipe.jpg",
+    "precios": [
+      {
+        "icon": "bed",
+        "label": "Solo la habitacion",
+        "monto": 1000
+      },
+      {
+        "icon": "coffee",
+        "label": "Desayuno",
+        "monto": 1250
+      }
+    ],
+    "estrellas": 4,
+    "coordenadas": {
+      "latitud": 6.490916,
+      "longitud": 99.298803
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Anda Resort",
+    "imagen": "http://media-cdn.tripadvisor.com/media/photo-s/01/e1/a1/fa/interior.jpg",
+    "precios": [
+      {
+        "icon": "bed",
+        "label": "Solo la habitacion",
+        "monto": 150
+      },
+      {
+        "icon": "coffee",
+        "label": "Desayuno",
+        "monto": 203
+      }
+    ],
+    "estrellas": 2,
+    "coordenadas": {
+      "latitud": 6.490916,
+      "longitud": 99.298803
+    }
+  }
+]
